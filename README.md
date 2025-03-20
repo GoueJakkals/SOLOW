@@ -62,7 +62,7 @@
             <li>• You are here because you have respected this method.</li>
             <li>• Continue to honor this code of conduct.</li>
         </ul>
-        <a href="index.html" class="continue-btn">Continue</a>
+        <a href="SOLOW.html" class="continue-btn">Continue</a>
     </div>
 </body>
 </html>
