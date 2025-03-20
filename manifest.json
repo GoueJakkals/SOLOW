@@ -8,12 +8,12 @@
   "icons": [
     {
       "src": "SOLOW.png",
-      "type": "image/png",
+      "type": "SOLOW/png",
       "sizes": "32x32"
     },
     {
       "src": "SOLOW.png",
-      "type": "image/png",
+      "type": "SOLOW/png",
       "sizes": "16x16"
     }
   ]
