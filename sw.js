@@ -1,7 +1,7 @@
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open("twine-game").then((cache) => {
-      return cache.addAll(["index.html"]);
+    caches.open("SOLOW").then((cache) => {
+      return cache.addAll(["SOLOW.html"]);
     })
   );
 });
