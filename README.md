@@ -51,7 +51,7 @@
     </style>
 </head>
 <body>
-<img src="images/frame(1)" alt="Found"/>
+<img src="frame(1).png" alt="Found"/>
     <div class="container">
         <h1>SOLOW - Code of Conduct</h1>
         <ul>
