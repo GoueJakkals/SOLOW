@@ -17,9 +17,10 @@
             margin: auto;
         }
         h1 {
-            font-size: 24px;
+            font-size: 26px;
             text-transform: uppercase;
             letter-spacing: 2px;
+            margin-bottom: 20px;
         }
         ul {
             text-align: left;
@@ -28,17 +29,20 @@
         }
         li {
             margin: 15px 0;
-            font-size: 16px;
+            font-size: 18px;
+            line-height: 1.5;
         }
         .continue-btn {
             display: inline-block;
             margin-top: 30px;
-            padding: 10px 20px;
+            padding: 12px 24px;
             border: 2px solid white;
             color: white;
             text-decoration: none;
             text-transform: uppercase;
             letter-spacing: 2px;
+            font-size: 16px;
+            transition: all 0.3s ease;
         }
         .continue-btn:hover {
             background-color: white;
@@ -48,14 +52,13 @@
 </head>
 <body>
     <div class="container">
-      <h2>SOLOW</h2>
-        <h1>Code of Conduct</h1>
+        <h1>SOLOW - Code of Conduct</h1>
         <ul>
             <li>• Do not speak or verbally use the word, name, or concept.</li>
             <li>• Do not share or communicate that you have experienced or seen this application.</li>
             <li>• Do not use this application if it has not found you.</li>
             <li>• Do not make this application known to anyone.</li>
-            <li>• If you intend to expose anyone to the SOLOW application, understand the risks and consequences.</li>
+            <li>• If you intend to expose someone to the SOLOW application, understand the risks and consequences.</li>
             <li>• Provide them only with the QR code. Tell them to scan it and say nothing more.</li>
             <li>• Stay silent or speak of a different topic.</li>
             <li>• The QR code will bring them here.</li>
@@ -66,4 +69,3 @@
     </div>
 </body>
 </html>
-
