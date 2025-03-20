@@ -1,7 +1,7 @@
 {
-  "name": "My Twine Game",
-  "short_name": "TwineGame",
-  "start_url": "index.html",
+  "name": "SOLOW",
+  "short_name": "SOLOW",
+  "start_url": "SOLOW.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
